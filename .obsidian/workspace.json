@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "72c00a8ce684abf9",
+        "id": "8c3ba4569ade8ef4",
         "type": "tabs",
         "children": [
           {
-            "id": "8b0ed5f043f0d8dd",
+            "id": "408a2ef56f10141b",
             "type": "leaf",
             "state": {
               "type": "diff-view",
               "state": {
-                "file": ".obsidian/workspace.json",
+                "file": ".obsidian/community-plugins.json",
                 "staged": false
               }
             }
@@ -139,7 +139,7 @@
     "direction": "horizontal",
     "width": 364.5
   },
-  "active": "8b0ed5f043f0d8dd",
+  "active": "408a2ef56f10141b",
   "lastOpenFiles": [
     "Learn/Learn to read/Tips/Are you highliting helping.md",
     "Learn/Big Data/Concepts/General/Medalion Architecture.md",
