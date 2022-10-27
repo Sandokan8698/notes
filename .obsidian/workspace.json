@@ -11,11 +11,10 @@
             "id": "8b0ed5f043f0d8dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Learn/Big Data/Concepts/Spark/Spark Configuration Properties.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -85,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn/Big Data/Concepts/Spark/Spark Configuration Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learn/Big Data/Concepts/Spark/Spark Configuration Properties.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +121,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Learn/Big Data/Concepts/Spark/Spark Configuration Properties.md"
-              }
+              "state": {}
             }
           },
           {
@@ -144,17 +139,17 @@
     "direction": "horizontal",
     "width": 364.5
   },
-  "active": "cdae657ac725bce3",
+  "active": "8b0ed5f043f0d8dd",
   "lastOpenFiles": [
+    "Learn/Learn to read/Tips/Are you highliting helping.md",
+    "Learn/Big Data/Concepts/General/Medalion Architecture.md",
+    "Learn/Big Data/Concepts/Spark/Spark Configuration Properties.md",
     "Learn/Big Data/Concepts/Spark/Resource Mangers.md",
     "Learn/Big Data/Books/Simplifying Data Engineering and Analytics With Delta/Unify Batch and Streaming with Delta/How To Unify Batch and Streaming with Delta ?.md",
     "Learn/Big Data/Books/Simplifying Data Engineering and Analytics With Delta/Unify Batch and Streaming with Delta/Handling steaming scenarios.md",
     "Learn/Big Data/Books/Simplifying Data Engineering and Analytics With Delta/Unify Batch and Streaming with Delta/Stream ETL.md",
     "Untitled.md",
     "2022-10-27.md",
-    "Big Data/Books/Simplifying Data Engineering and Analytics With Delta/Unify Batch and Streaming with Delta/Handling steaming scenarios.md",
-    "Big Data/Books/Simplifying Data Engineering and Analytics With Delta/Unify Batch and Streaming with Delta/Trade-off in designing steaming architectures.md",
-    "Big Data/Books/Simplifying Data Engineering and Analytics With Delta/Unify Batch and Streaming with Delta/Streaming best practices.md",
-    "Big Data/Books/Simplifying Data Engineering and Analytics With Delta/Unify Batch and Streaming with Delta/Stream ETL.md"
+    "Big Data/Books/Simplifying Data Engineering and Analytics With Delta/Unify Batch and Streaming with Delta/Handling steaming scenarios.md"
   ]
 }
