@@ -120,8 +120,17 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "cdae657ac725bce3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -129,6 +138,7 @@
   },
   "active": "3bc0cfc80670a369",
   "lastOpenFiles": [
+    "2022-10-27.md",
     "Learn/Big Data/Books/Simplifying Data Engineering and Analytics With Delta/Unify Batch and Streaming with Delta/How To Unify Batch and Streaming with Delta ?.md",
     "Learn/Big Data/Books/Simplifying Data Engineering and Analytics With Delta/Unify Batch and Streaming with Delta/Handling steaming scenarios.md",
     "Big Data/Books/Simplifying Data Engineering and Analytics With Delta/Unify Batch and Streaming with Delta/Handling steaming scenarios.md",
@@ -137,7 +147,6 @@
     "Big Data/Books/Simplifying Data Engineering and Analytics With Delta/Unify Batch and Streaming with Delta/Stream ETL.md",
     "Big Data/Books/Simplifying Data Engineering and Analytics With Delta/Unify Batch and Streaming with Delta/How To Unify Batch and Streaming with Delta ?.md",
     "Big Data/Concepts/General/Medalion Architecture.md",
-    "Big Data/Books/Simplifying Data Engineering and Analytics With Delta/Unify Batch and Streaming with Delta/Moving toward real-time system.md",
-    "Untitled.md"
+    "Big Data/Books/Simplifying Data Engineering and Analytics With Delta/Unify Batch and Streaming with Delta/Moving toward real-time system.md"
   ]
 }
