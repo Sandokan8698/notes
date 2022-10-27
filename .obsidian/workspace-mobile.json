@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "6f19dd08bfcca1c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "44b04d62e1728276",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1985e1dd598f5a4a",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "staged": false,
+                "file": "Learn/Learn to read/Tips/Are you highliting helping.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a49c9d5de8d6840c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "eb77f5bddb20ac41",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "b8584938aaa3f261",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "814a483e9f0bc21f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "180ff1be890dea9e",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "dd1a167cccb276a7",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0090a1f8c2d10033",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4b96cea64da0f77b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9f3ecac63e50143b",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      },
+      {
+        "id": "2b4f675003fc65c6",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "active": "1985e1dd598f5a4a",
+  "lastOpenFiles": [
+    "Learn/Learn to read/Tips/Are you highliting helping.md"
+  ]
+}
