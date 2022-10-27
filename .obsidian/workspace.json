@@ -11,12 +11,8 @@
             "id": "8b0ed5f043f0d8dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-10-27.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022-10-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022-10-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "2022-10-27.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -135,7 +127,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8b0ed5f043f0d8dd",
+  "active": "3bc0cfc80670a369",
   "lastOpenFiles": [
     "Learn/Big Data/Books/Simplifying Data Engineering and Analytics With Delta/Unify Batch and Streaming with Delta/How To Unify Batch and Streaming with Delta ?.md",
     "Learn/Big Data/Books/Simplifying Data Engineering and Analytics With Delta/Unify Batch and Streaming with Delta/Handling steaming scenarios.md",
