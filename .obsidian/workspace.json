@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "f1ad8dfec5eb39aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "72c00a8ce684abf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b0ed5f043f0d8dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Learn/Big Data/Books/Simplifying Data Engineering and Analytics With Delta/Unify Batch and Streaming with Delta/How To Unify Batch and Streaming with Delta ?.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6512970ac8224bbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "35e4a5f71033f031",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bc0cfc80670a369",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "31ff332329c3f81c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68e7e34cf76d7717",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 424.5
+  },
+  "right": {
+    "id": "9a8ed5d8a2953326",
+    "type": "split",
+    "children": [
+      {
+        "id": "70a7e5c8e2537cf2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07b33c43d4ee6406",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Learn/Big Data/Books/Simplifying Data Engineering and Analytics With Delta/Unify Batch and Streaming with Delta/How To Unify Batch and Streaming with Delta ?.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "325b3c3155a585e7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Learn/Big Data/Books/Simplifying Data Engineering and Analytics With Delta/Unify Batch and Streaming with Delta/How To Unify Batch and Streaming with Delta ?.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f81d7f6fcfde32b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1a171f6813f780d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Learn/Big Data/Books/Simplifying Data Engineering and Analytics With Delta/Unify Batch and Streaming with Delta/How To Unify Batch and Streaming with Delta ?.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "3bc0cfc80670a369",
+  "lastOpenFiles": [
+    "Learn/Big Data/Books/Simplifying Data Engineering and Analytics With Delta/Unify Batch and Streaming with Delta/Handling steaming scenarios.md",
+    "Big Data/Books/Simplifying Data Engineering and Analytics With Delta/Unify Batch and Streaming with Delta/Handling steaming scenarios.md",
+    "Big Data/Books/Simplifying Data Engineering and Analytics With Delta/Unify Batch and Streaming with Delta/Trade-off in designing steaming architectures.md",
+    "Big Data/Books/Simplifying Data Engineering and Analytics With Delta/Unify Batch and Streaming with Delta/Streaming best practices.md",
+    "Big Data/Books/Simplifying Data Engineering and Analytics With Delta/Unify Batch and Streaming with Delta/Stream ETL.md",
+    "Big Data/Books/Simplifying Data Engineering and Analytics With Delta/Unify Batch and Streaming with Delta/How To Unify Batch and Streaming with Delta ?.md",
+    "Big Data/Concepts/General/Medalion Architecture.md",
+    "Big Data/Books/Simplifying Data Engineering and Analytics With Delta/Unify Batch and Streaming with Delta/Moving toward real-time system.md",
+    "Untitled.md",
+    "Big Data/Untitled.md"
+  ]
+}

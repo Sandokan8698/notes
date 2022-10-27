@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "e57a9582444f9918",
+    "type": "split",
+    "children": [
+      {
+        "id": "b512c04355d86320",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Concepts/Spark/Spark Memory Allocation.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "765e239a16e86408",
+    "type": "split",
+    "children": [
+      {
+        "id": "a40d6f2e73f846d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18a748aa8beaf764",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb60cea637152ddf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86d9ab86cbd06e73",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ed0b0504bcd206ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "d82ef2fa43599070",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df8aa1452c313b86",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Concepts/Spark/Spark Memory Allocation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "6f8c986f13db997c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Concepts/Spark/Spark Memory Allocation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f0f8f52687b9c2c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9fe7c00a42399862",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Concepts/Spark/Spark Memory Allocation.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b512c04355d86320",
+  "lastOpenFiles": [
+    "Concepts/Spark/Spark Configuration Properties.md",
+    "Concepts/Spark/Resource Mangers.md",
+    "Concepts/Spark/Spark Memory Allocation.md",
+    "Configuration Properties `^.md",
+    "Concepts/General/Medalion Architecture.md",
+    "Concepts/Spark/Configurations.md",
+    "Obsidian.md",
+    "Books/Simplifying Data Engineering and Analytics With Delta/Unify Batch and Streaming with Delta/Trade-off in designing steaming architectures.md",
+    "Books/Simplifying Data Engineering and Analytics With Delta/Unify Batch and Streaming with Delta/This is another page.md",
+    "Books/Simplifying Data Engineering and Analytics With Delta/Unify Batch and Streaming with Delta/Streaming best practices.md"
+  ]
+}
