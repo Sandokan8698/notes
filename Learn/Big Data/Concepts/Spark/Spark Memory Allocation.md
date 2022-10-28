@@ -14,3 +14,7 @@ The total executor memory is the result of the sum of this [[Spark Configuration
 Please do a deep look at **memory fractions** in spark, noticed you wont be able to allocate more memory than the default allow by the [[Resource Mangers]]
 
 
+![Engelbart](https://www.scholarnest.com/wp-content/uploads/2021/09/spark-executor-memory-allocation.jpg)
+
+
+
